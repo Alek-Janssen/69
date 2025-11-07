@@ -197,9 +197,9 @@ Maak de som $4+2$
 ## Figuren
 Een site / boek kan natuurlijk niet zonder figuren. Er zijn grofweg twee manieren om een figuur te maken
 
-*Snelle figuur, zonder opmaak mogelijkheden*
+*korte syntax voor een figuur, zonder opmaak mogelijkheden*
 
-| Snelle figuur | `![](link naar figuur)` |
+| Snel figuur | `![](link naar figuur)` |
 
 *Betere manier met meer controle:*
 
